@@ -1,0 +1,2 @@
+# InstantMine
+Funny exploit lol
